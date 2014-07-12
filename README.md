@@ -5,6 +5,8 @@
 
 This Alfred workflow toggles hidden files in Finder.
 
+Don't know what Alfred is? Check it out [here](http://www.alfredapp.com/).
+
 ==============
 
 ###Install
