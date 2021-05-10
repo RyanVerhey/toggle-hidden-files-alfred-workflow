@@ -1,7 +1,7 @@
 "Toggle Hidden Files" Alfred Workflow
 =====================================
 
-###Description
+### Description
 
 This Alfred workflow toggles hidden files in Finder.
 
@@ -9,15 +9,15 @@ Don't know what Alfred is? Check it out [here](http://www.alfredapp.com/).
 
 ==============
 
-###Install
+### Install
 
 Just download the .alfredworkflow file linked below and open it with Alfred.
 
-__[DOWNLOAD](http://ryanverhey.com/files/alfred/toggle-hidden-files.alfredworkflow)__
+__[DOWNLOAD](https://files.ryanverhey.dev/alfred/toggle-hidden-files.alfredworkflow)__
 
 ==============
 
-###Use
+### Use
 
 To use it, just type `togglehidden`. It will show hidden files in Finder if they are hidden, and hide them if they are not.
 
